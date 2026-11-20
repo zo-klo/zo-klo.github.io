@@ -22,6 +22,15 @@ layout: default
     </div></div>
   </div>
 </section>
+<section id="theses">
+  <div class="container">
+    <div class="row"><div class="col-lg-12 text-center"><h2>Theses</h2><hr class="star-primary" aria-hidden="true"></div></div>
+    <div class="row"><div class="col-lg-10 col-lg-offset-1 publication-list">
+      {% capture theses %}{% include_relative content/Theses.md %}{% endcapture %}
+      {{ theses | markdownify }}
+    </div></div>
+  </div>
+</section>
 {% include portfolio_grid.html %}
 <section class="success" id="contact">
   <div class="container"><div class="row"><div class="col-lg-10 col-lg-offset-1 text-center contact-copy">
