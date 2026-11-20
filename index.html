@@ -9,10 +9,7 @@ layout: default
     <div class="row"><div class="col-lg-10 col-lg-offset-1 about-content">
       {% capture about %}{% include_relative content/about.md %}{% endcapture %}
       {{ about | markdownify }}
-      <details class="research-note"><summary>Research and practice</summary>
-        {% capture summary %}{% include_relative content/research-summary.md %}{% endcapture %}
-        {{ summary | markdownify }}
-      </details>
+
     </div></div>
   </div>
 </section>

@@ -12,7 +12,6 @@ Open a file, click the pencil icon, edit, and choose **Commit changes**. Changes
 | --- | --- |
 | Your name and the tagline beneath it | [_config.yml](_config.yml), `title` and `skills` |
 | Your bio | [content/about.md](content/about.md) |
-| Research and practice note | [content/research-summary.md](content/research-summary.md) |
 | Publications and manuscript in revise and resubmit | [content/publications.md](content/publications.md) |
 | Sentiment analysis project | [content/project-sentiment-analysis.md](content/project-sentiment-analysis.md) |
 | Measurement Matcher project | [content/project-measurement-matcher.md](content/project-measurement-matcher.md) |
