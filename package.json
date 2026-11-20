@@ -1,0 +1,15 @@
+{
+  "name": "zoe-frazer-klotz-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/build.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "marked": "18.2.1"
+  }
+}
