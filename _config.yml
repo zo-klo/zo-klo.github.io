@@ -1,0 +1,34 @@
+# Identity and header text
+title: Zoe Frazer-Klotz
+email: ""
+url: https://zo-klo.github.io
+baseurl: ""
+description: "Interdisciplinary mixed-methods research, product evaluation and design, strategy, and music."
+meta_author: Zoe Frazer-Klotz
+skills: "Interdisciplinary Mixed-Methods Research | Product Evaluation and Design | Strategy | Musician"
+
+# Freelancer's original palette. Change these hex values later, without #.
+color:
+  primary: 18bc9c
+  primary-rgb: "24,188,156"
+  secondary: 2c3e50
+  secondary-dark: 233140
+
+social:
+  - title: linkedin
+    label: LinkedIn
+    url: https://www.linkedin.com/in/zoe-frazer-klotz-618bbb188/
+  - title: github
+    label: GitHub
+    url: https://github.com/zo-klo
+
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - dist
+  - scripts

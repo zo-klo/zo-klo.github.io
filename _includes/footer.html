@@ -1,0 +1,7 @@
+<footer class="text-center">
+<div class="footer-above"><div class="container"><div class="row">
+  <div class="footer-col col-md-6"><h3>Around the web</h3><ul class="list-inline">{% for network in site.social %}<li><a href="{{ network.url }}" class="btn-social btn-outline" aria-label="{{ network.label }}"><i class="fa-brands fa-fw fa-{{ network.title }}" aria-hidden="true"></i></a></li>{% endfor %}</ul></div>
+  <div class="footer-col col-md-6"><h3>About this site</h3><p>Built with the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer Jekyll theme</a>.</p><p><a href="https://github.com/zo-klo/zo-klo.github.io/tree/main/content">Edit content on GitHub</a></p></div>
+</div></div></div>
+<div class="footer-below"><div class="container">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</div></div>
+</footer>

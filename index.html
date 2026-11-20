@@ -1,0 +1,40 @@
+---
+layout: default
+---
+{% include header.html %}
+<main id="main">
+<section id="about">
+  <div class="container">
+    <div class="row"><div class="col-lg-12 text-center"><h2>About</h2><hr class="star-primary" aria-hidden="true"></div></div>
+    <div class="row"><div class="col-lg-10 col-lg-offset-1 about-content">
+      {% capture about %}{% include_relative content/about.md %}{% endcapture %}
+      {{ about | markdownify }}
+      <details class="research-note"><summary>Research and practice</summary>
+        {% capture summary %}{% include_relative content/research-summary.md %}{% endcapture %}
+        {{ summary | markdownify }}
+      </details>
+    </div></div>
+  </div>
+</section>
+<section id="publications">
+  <div class="container">
+    <div class="row"><div class="col-lg-12 text-center"><h2>Publications</h2><hr class="star-primary" aria-hidden="true"></div></div>
+    <div class="row"><div class="col-lg-10 col-lg-offset-1 publication-list">
+      {% capture publications %}{% include_relative content/publications.md %}{% endcapture %}
+      {{ publications | markdownify }}
+    </div></div>
+  </div>
+</section>
+{% include portfolio_grid.html %}
+<section class="success" id="contact">
+  <div class="container"><div class="row"><div class="col-lg-10 col-lg-offset-1 text-center contact-copy">
+    {% capture contact %}{% include_relative content/contact.md %}{% endcapture %}
+    {{ contact | markdownify }}
+    <hr class="star-light" aria-hidden="true">
+  </div></div></div>
+</section>
+</main>
+{% include footer.html %}
+{% capture research %}{% include_relative content/project-sentiment-analysis.md %}{% endcapture %}
+{% capture matcher %}{% include_relative content/project-measurement-matcher.md %}{% endcapture %}
+{% include modals.html research=research matcher=matcher %}
