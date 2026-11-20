@@ -18,6 +18,6 @@ Lei, R. F., Frazer-Klotz, Z., & Szanton, E. C.
 
 ---
 
-### Revise and resubmit
+### Under Review
 
 One additional manuscript is currently in revise and resubmit.
