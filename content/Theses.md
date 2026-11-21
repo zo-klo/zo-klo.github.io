@@ -3,3 +3,13 @@
 Master’s thesis · Columbia University
 
 [Read thesis (PDF)](/assets/theses/subway-health-thesis.pdf) · [View analysis and code](https://github.com/zo-klo/Impact-of-Improved-Subway-on-Potentially-Preventable-Hospitalizatins-in-NYC-2017-2022-)
+
+---
+
+### Follow the Leader: Does Third Party Prejudice increase children’s discrimination against gender non-conforming peers?
+
+Undergraduate thesis · Department of Psychology, Haverford College
+
+This is the original undergraduate thesis, not a peer-reviewed journal article. Subsequent research developed from this work includes an additional study and is reported in a separate manuscript.
+
+[Read undergraduate thesis (PDF)](/assets/theses/undergraduate-thesis.pdf)
