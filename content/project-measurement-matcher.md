@@ -1,6 +1,6 @@
 ### Making a better fit easier to find.
 
-[CLICK HERE TO GO TO CHROME STORE] (https://chromewebstore.google.com/detail/measurement-matcher/oiogmchnbpebanjkndjncckiejjjmdib)
+[CLICK HERE TO GO TO CHROME STORE](https://chromewebstore.google.com/detail/measurement-matcher/oiogmchnbpebanjkndjncckiejjjmdib)
 
 
 Measurement Matcher is a free Chrome extension that compares garment measurements on TheRealReal with saved preferences, helping shoppers filter listings by measurements that matter to them.
