@@ -1,4 +1,4 @@
-### Finding patterns in what people say.
+### NLP Analysis of City Respondent Concerns
 
 [View project on GitHub](https://github.com/zo-klo/STM-Affordability-Analysis)
 

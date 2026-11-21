@@ -1,4 +1,4 @@
-### Making a better fit easier to find.
+### Measurement Matcher: Chrome Extension
 
 [CLICK HERE TO GO TO CHROME STORE](https://chromewebstore.google.com/detail/measurement-matcher/oiogmchnbpebanjkndjncckiejjjmdib)
 

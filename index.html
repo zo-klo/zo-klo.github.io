@@ -43,4 +43,5 @@ layout: default
 {% include footer.html %}
 {% capture research %}{% include_relative content/project-sentiment-analysis.md %}{% endcapture %}
 {% capture matcher %}{% include_relative content/project-measurement-matcher.md %}{% endcapture %}
-{% include modals.html research=research matcher=matcher %}
+{% capture automation %}{% include_relative content/project-weekly-report-automation.md %}{% endcapture %}
+{% include modals.html research=research matcher=matcher automation=automation %}

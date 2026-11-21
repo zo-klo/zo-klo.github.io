@@ -14,8 +14,9 @@ Open a file, click the pencil icon, edit, and choose **Commit changes**. Changes
 | Your bio | [content/about.md](content/about.md) |
 | Publications and manuscript in revise and resubmit | [content/publications.md](content/publications.md) |
 | Theses and PDF/repository links | [content/Theses.md](content/Theses.md) |
-| Sentiment analysis project | [content/project-sentiment-analysis.md](content/project-sentiment-analysis.md) |
+| NLP analysis project | [content/project-sentiment-analysis.md](content/project-sentiment-analysis.md) |
 | Measurement Matcher project | [content/project-measurement-matcher.md](content/project-measurement-matcher.md) |
+| Weekly survey reporting automation | [content/project-weekly-report-automation.md](content/project-weekly-report-automation.md) |
 | Contact text and links | [content/contact.md](content/contact.md) |
 | Social icons in the footer | [_config.yml](_config.yml), `social` |
 
